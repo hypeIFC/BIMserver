@@ -54,6 +54,7 @@ public class JarBimServer {
 	private BimServer bimServer;
 
 	public static void main(String[] args) {
+		System.out.println("HelloWedding");
 		String address = "127.0.0.1";
 		String port = "8082";
 		String homedir = "home";
